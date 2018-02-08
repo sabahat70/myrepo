@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BabyBook</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="title_activity_write_page">WritePage</string>
+    <string name="title_activity_display_story_list">DisplayStoryList</string>
+    <string name="title_activity_read_story">ReadStory</string>
+</resources>
